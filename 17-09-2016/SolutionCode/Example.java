@@ -1,6 +1,6 @@
 public class Example {
 	public static void main(String args[]) {
-		String str = "apssdc";
+		String str = "aswani";
 		
 		//str[1] not possible in java
 		
